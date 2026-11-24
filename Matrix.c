@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include"Matrix.h"
 
 void MatrixAddition(float* matrixA, float* matrixB, float* result) {
