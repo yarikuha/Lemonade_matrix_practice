@@ -1,28 +1,28 @@
 
-void matrixTranspose(float* matrixA, float* result){
+void MatrixTranspose(float* matrixA, float* result){
 
 };
-void matrixAddition(float* matrixA, float* matrixB, float* result){
+void MatrixAddition(float* matrixA, float* matrixB, float* result){
 
 };
-void matrixMultiplication(float* matrixA, float* matrixB, float* result){
+void MatrixMultiplication(float* matrixA, float* matrixB, float* result){
 
 };
-void matrixElementWiseMultiplication(float* matrixA, float* matrixB, float* result){
+void MatrixElementWiseMultiplication(float* matrixA, float* matrixB, float* result){
 
 };
-void matrixDet2x2(float* matrixA, float* result){
+void MatrixDet2x2(float* matrixA, float* result){
 
 };
-void matrixDet3x3(float* matrixA, float* result){
+void MatrixDet3x3(float* matrixA, float* result){
 
 };
-void matrixAdjoint3x3(float* matrixA, float* result){
+void MatrixAdjoint3x3(float* matrixA, float* result){
 
 };
-void matrixInverse3x3(float* matrixA, float* result){
+void MatrixInverse3x3(float* matrixA, float* result){
     
 };
-void matrixPseudoInverse3x3(float* matrixA, float* result){
+void MatrixPseudoInverse3x3(float* matrixA, float* result){
     
 };
